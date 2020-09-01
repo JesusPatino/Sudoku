@@ -1,0 +1,9 @@
+c:\users\jpatino\documents\visual studio 2013\Projects\Sudoku V2.0\Sudoku V2.0\obj\Debug\Sudoku V2.0.csprojResolveAssemblyReference.cache
+c:\users\jpatino\documents\visual studio 2013\Projects\Sudoku V2.0\Sudoku V2.0\obj\Debug\Sudoku_V2._0.Properties.Resources.resources
+c:\users\jpatino\documents\visual studio 2013\Projects\Sudoku V2.0\Sudoku V2.0\obj\Debug\Sudoku_V2._0.Sudoku.resources
+c:\users\jpatino\documents\visual studio 2013\Projects\Sudoku V2.0\Sudoku V2.0\obj\Debug\Sudoku V2.0.csproj.GenerateResource.Cache
+c:\users\jpatino\documents\visual studio 2013\Projects\Sudoku V2.0\Sudoku V2.0\bin\Debug\Sudoku V2.0.exe
+c:\users\jpatino\documents\visual studio 2013\Projects\Sudoku V2.0\Sudoku V2.0\bin\Debug\Sudoku V2.0.pdb
+c:\users\jpatino\documents\visual studio 2013\Projects\Sudoku V2.0\Sudoku V2.0\obj\Debug\Sudoku V2.0.exe
+c:\users\jpatino\documents\visual studio 2013\Projects\Sudoku V2.0\Sudoku V2.0\obj\Debug\Sudoku V2.0.pdb
+c:\users\jpatino\documents\visual studio 2013\Projects\Sudoku V2.0\Sudoku V2.0\bin\Debug\Sudoku V2.0.exe.config
